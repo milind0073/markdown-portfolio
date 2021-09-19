@@ -1,9 +1,9 @@
 # Skills
 
-Below is a list of technical skills
+**Below is a list of technical skills**
 
 ## Programming language
-- Java
+- __Java__
 - Php
 - JavaScript
 
